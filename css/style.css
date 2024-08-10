@@ -286,6 +286,16 @@ header a:hover {
     }
 }
 
+.tss {
+    display: flex;
+    flex-direction: column;
+}
+
+.about-btn001 {
+    display: flex;
+    margin-bottom: 30px;
+}
+
 .con2 {
     display: flex;
     justify-content: flex-end;
@@ -475,7 +485,8 @@ section.active {
     margin-top: 24px;
 }
 
-.projects .two {
+.projects .two,
+.projects .one {
     margin-top: 40px;
 }
 

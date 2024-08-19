@@ -591,6 +591,13 @@
             cursor: pointer;
         }
         
+        .fa-square-whatsapp {
+            font-size: 25px;
+            margin: 15px;
+            color: gray;
+            cursor: pointer;
+        }
+        
         .fa-github {
             color: gray;
             font-size: 25px;

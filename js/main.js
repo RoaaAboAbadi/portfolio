@@ -57,3 +57,7 @@ document.getElementById("linkedin-icon").addEventListener("click", function() {
 document.getElementById("github-icon").addEventListener("click", function() {
     window.open("https://github.com/RoaaAboAbadi", "_blank");
 });
+
+document.getElementById("whatsapp-icon").addEventListener("click", function() {
+    window.open("https://wa.me/972592367465", "_blank");
+});
